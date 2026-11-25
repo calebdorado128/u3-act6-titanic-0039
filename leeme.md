@@ -14,10 +14,25 @@ Que los estudiantes aprendan a revisar conjuntos de datos (*datasets*) e identif
 # Caleb Dorado NC = 0039 Grupo 3-H UNIDAD 3
 ![alt text](image.png)
 
-## Vista previa de Datos
+## 1. Vista previa de Datos
+![alt text](image-3.png)
+
+## 2. Dimensiones
 ![alt text](image-1.png)
 
-## Tipos de Datos
+## 3. Tipos de Datos
 ![alt text](image-2.png)
 
-## Datos nulos y su porcentaje
+## 4. Datos nulos (cantidad)
+![alt text](image-4.png)
+
+## 5. Porcentaje de nulos
+![alt text](image-5.png)
+
+## 6. Registros duplicados
+![alt text](image-6.png)
+
+## 7. Valores atipicos en 'AGE'
+![alt text](image-7.png)
+
+## Creado por Caleb Dorado NC = 0039
