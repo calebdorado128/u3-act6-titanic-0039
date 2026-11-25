@@ -1,3 +1,5 @@
+# Caleb Dorado NC = 0039
+
 # ==========================================
 # CASO 1: IDENTIFICACIÓN DE PROBLEMAS
 # DATASET: TITANIC
@@ -75,3 +77,4 @@ df_limpio['embark_town'] = df_limpio['embark_town'].fillna(moda_embarque)
 df_limpio.to_csv("caso1-titanic/resultados/titanic_limpio.csv", index=False)
 print("✅ Dataset limpio guardado en 'resultados/titanic_limpio.csv'")
 print("\n🎉 ¡Análisis del Caso 1 completado con éxito!")
+print("Realizado por CAleb Dorado NC = 0039")
