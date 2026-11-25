@@ -35,4 +35,7 @@ Que los estudiantes aprendan a revisar conjuntos de datos (*datasets*) e identif
 ## 7. Valores atipicos en 'AGE'
 ![alt text](image-7.png)
 
+## 8. Grafica de nulos
+![alt text](image-8.png)
+
 ## Creado por Caleb Dorado NC = 0039
